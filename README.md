@@ -15,9 +15,9 @@
 
 
 ### ✨ Footprint
-* [2021 MAP杯农业遥感地块识别](): 优胜奖 (单人，7/55)
+* [2021 MAP杯农业遥感地块识别](https://www.sohu.com/a/491428747_121123997): 优胜奖 (单人，7/55)
 * [2021 阿里天池零基础建筑物分割](https://tianchi.aliyun.com/competition/entrance/531872/introduction)：亚军 (单人，2/1659)
-* [2019 百度点石第二届高分杯]()：冠军 (单人，1/537)
+* [2019 百度点石第二届高分杯农作物分类](https://mp.weixin.qq.com/s/OjYpLxMD1q3eGBkK2aptQg)：冠军 (单人，1/537)
 
 <!--
 **lsh1994/lsh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
