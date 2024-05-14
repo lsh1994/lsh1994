@@ -1,9 +1,5 @@
 ## 👋 Hi there!
 
-
-
-[![](https://github-readme-stats.vercel.app/api?username=lsh1994&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 Info
 * Dive into CV. 公众号：小白人工智能
 * AI算法竞赛打酱油
@@ -21,6 +17,9 @@
 * [2020 AI研习社英文验证码识别](https://god.yanxishe.com/66)：冠军 (单人，1/169)
 * [2019 百度点石第二届高分杯农作物分类](https://mp.weixin.qq.com/s/OjYpLxMD1q3eGBkK2aptQg)：冠军 (独立完成，1/537)
 * [2019 首届全国地质资料创新应用大赛]()：三等奖 (独立完成，)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=lsh1994&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lsh1994/lsh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
