@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 ### 📫 Info
-* Dive into CV. 公众号：小白人工智能
+* Dive into CV. 公众号：小白One-AI
 * AI算法竞赛打酱油
 * Experience:
   * 擅长：场景分类、地块分割、语义分割等；
