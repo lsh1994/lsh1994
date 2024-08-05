@@ -1,14 +1,11 @@
 ## 👋 Hi there!
 
 ### 📫 Info
-* Dive into CV. 公众号：小白One-AI
+* 公众号：小白One-AI
 * AI算法竞赛打酱油
 * Experience:
   * 擅长：场景分类、地块分割、语义分割等；
-  * 落地：
-    * 方向：遥感算法、碳中和、自动驾驶视觉感知；
-    * 软件&系统&平台：Ubuntu、Windows；
-    * 硬件：NVIDIA Jetson Nano&NX板等；
+  * 应用方向：遥感算法、碳中和、自动驾驶视觉感知；
 
 
 ### ✨ 竞赛
