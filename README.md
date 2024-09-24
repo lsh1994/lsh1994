@@ -10,7 +10,7 @@
 
 ### ✨ 竞赛
 * [2024 第五届马栏山杯-AIGC生成图像判定](https://challenge.ai.mgtv.com/#/track/24): 亚军 (单人，2/885) 
-* [2024 智衡屋赛道五-小样本赛（飞机类型分类）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=874): ? (单人，?/190)
+* [2024 智衡屋赛道五-小样本赛（飞机类型分类）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=874): 三等奖 (单人，3/190)
 * [2024 福建省大数据集团-近海养殖渔排智能普查（渔排分割）](https://datacontest.fjbdg.com.cn/v3/cmptDetail.html?id=878): ? (单人，?/819)
 * [2021 MAP杯农业遥感地块识别](https://www.sohu.com/a/491428747_121123997): 优胜奖 (单人，7/55)
 * [2021 阿里天池零基础建筑物分割](https://tianchi.aliyun.com/competition/entrance/531872/introduction)：亚军 (单人，2/1659)
