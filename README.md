@@ -19,6 +19,9 @@
 * [2019 百度点石第二届高分杯农作物分类](https://mp.weixin.qq.com/s/OjYpLxMD1q3eGBkK2aptQg)：冠军 (独立完成，1/537)
 * [2019 首届全国地质资料创新应用大赛]()：三等奖 (独立完成，)
 
+### ✨ 论文
+* ShiHang Li, Haishan Wu, and Biao Wang. 2024. A Solution to ACMMM 2024 on Artificial Intelligence Generated Image Detection. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 11475–11477. https://doi.org/10.1145/3664647.3689003
+
 <!--
 ### ✨ 发明专利
 在2024.07.29前的统计，共17篇，其中授权5篇：
