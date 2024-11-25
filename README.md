@@ -9,6 +9,7 @@
 
 
 ### ✨ 竞赛
+* [2024 CCF-BDCI基于航片的玉米异常情况识别](https://www.datafountain.cn/competitions/1064)：?（单人，?/1234）
 * [2024 第五届马栏山杯-AIGC生成图像判定](https://challenge.ai.mgtv.com/#/track/24): 亚军 (单人，2/885) 
 * [2024 智衡屋赛道五-小样本赛（飞机类型分类）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=874): 三等奖 (单人，3/190)
 * [2024 福建省大数据集团-近海养殖渔排智能普查（渔排分割）](https://datacontest.fjbdg.com.cn/v3/cmptDetail.html?id=878): ? (单人，?/819)
