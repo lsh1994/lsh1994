@@ -13,11 +13,12 @@
 * [2024 芒果TV/第五届马栏山杯-AIGC生成图像判定](https://challenge.ai.mgtv.com/#/track/24): 亚军 (单人，2/885) 
 * [2024 DataCastle/智衡屋赛道五-小样本赛（飞机类型分类）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=874): 三等奖 (单人，3/190)
 * [2024 福建省大数据集团/近海养殖渔排智能普查（渔排分割）](https://datacontest.fjbdg.com.cn/v3/cmptDetail.html?id=878): 三等奖 (单人，3/819)
+* [2021 先正达/MAP杯农业遥感地块识别](https://www.sohu.com/a/491428747_121123997): 优胜奖 (单人，7/55)
 * [2021 阿里天池/零基础建筑物分割](https://tianchi.aliyun.com/competition/entrance/531872/introduction)：亚军 (单人，2/1659)
 * [2019 百度点石/第二届高分杯农作物分类](https://mp.weixin.qq.com/s/OjYpLxMD1q3eGBkK2aptQg)：冠军 (独立完成，1/537)
+* [2019 地质资料馆/首届全国地质资料创新应用大赛]()：三等奖 (独立完成，)
 
-<!--* [2019 地质资料馆/首届全国地质资料创新应用大赛]()：三等奖 (独立完成，16)
-* [2021 先正达/MAP杯农业遥感地块识别](https://www.sohu.com/a/491428747_121123997): 优胜奖 (单人，7/55)
+<!--
 * [2020 AI研习社中文验证码识别](https://god.yanxishe.com/71)：季军 (单人，3/86)
 * [2020 AI研习社英文验证码识别](https://god.yanxishe.com/66)：冠军 (单人，1/169) -->
 
