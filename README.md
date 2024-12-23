@@ -26,7 +26,7 @@
 * ShiHang Li, Haishan Wu, and Biao Wang. 2024. A Solution to ACMMM 2024 on Artificial Intelligence Generated Image Detection. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 11475–11477. https://doi.org/10.1145/3664647.3689003
 
 
-### ✨ 发明专利
+### ✨ 专利
 > 2024.12前的，统计的个人撰写和完成的，共20篇，其中授权9篇。
 
 <!--
