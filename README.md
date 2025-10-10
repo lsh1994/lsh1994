@@ -9,6 +9,7 @@
 
 <!--
 ### ✨ 竞赛
+* [2024 信也/第十届信也科技杯视觉深度鉴伪识别](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=36)：铜奖（单人，5/426）
 * [2024 DataFountain/CCF-BDCI基于航片的玉米异常情况识别](https://www.datafountain.cn/competitions/1064)：二等奖（单人，3/1234）
 * [2024 芒果TV/第五届马栏山杯-AIGC生成图像判定](https://challenge.ai.mgtv.com/#/track/24): 亚军 (单人，2/885) 
 * [2024 DataCastle/智衡屋赛道五-小样本赛（飞机类型分类）](https://challenge.datacastle.cn/v3/cmptDetail.html?id=874): 三等奖 (单人，3/190(线上第2，答辩后第3))
