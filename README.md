@@ -7,7 +7,7 @@
   * 擅长：场景分类、地块分割、语义分割等；
   * 应用方向：遥感算法、碳中和、自动驾驶视觉感知；
 
-<!--
+
 ### ✨ 竞赛
 * [2025 信也/第十届信也科技杯视觉深度鉴伪识别](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=36)：铜奖（单人，5/426）
 * [2024 DataFountain/CCF-BDCI基于航片的玉米异常情况识别](https://www.datafountain.cn/competitions/1064)：二等奖（单人，3/1234）
@@ -25,7 +25,7 @@
 ### ✨ 论文
 * ShiHang Li, Haishan Wu, and Biao Wang. 2024. A Solution to ACMMM 2024 on Artificial Intelligence Generated Image Detection. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 11475–11477. https://doi.org/10.1145/3664647.3689003
 
-
+<!--
 ### ✨ 专利
 > 2025.10前统计的：独立撰写完成的共20篇，其中授权11篇。
 -->
