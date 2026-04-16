@@ -24,6 +24,8 @@
 
 
 ### ✨ 论文
+* NAN YA-GUAN, ZHANG S, GUO H, et al. NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: AI Flash Portrait (Track 3)[Z/OL]. (2026). https://arxiv.org/abs/2604.11230.
+* QU L, LIU Y, LIANG J, et al. NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: Multi-Exposure Image Fusion in Dynamic Scenes (Track 2)[Z/OL]. (2026). https://arxiv.org/abs/2604.09030.
 * ShiHang Li, Haishan Wu, and Biao Wang. 2024. A Solution to ACMMM 2024 on Artificial Intelligence Generated Image Detection. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 11475–11477. https://doi.org/10.1145/3664647.3689003
 
 <!--
