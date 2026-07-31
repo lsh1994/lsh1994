@@ -7,8 +7,9 @@
   * 擅长：场景分类、地块分割、语义分割等；
   * 应用方向：遥感算法、碳中和、自动驾驶视觉感知；
 
-
+<!--
 ### ✨ 竞赛
+* [2026 ITU人工智能（AI）与太空计算挑战赛](https://spaceaichallenge.zero2x.org/competition-home): 铜奖(单人,6/)
 * [2026 NTIRE RAIM (Multi-Exposure Image Fusion in Dynamic Scenes)](https://www.codabench.org/competitions/12728/#/pages-tab): 亚军 (单人，2/114) 
 * [2025 信也/第十届信也科技杯视觉深度鉴伪识别](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=36)：铜奖（单人，5/426）
 * [2024 DataFountain/CCF-BDCI基于航片的玉米异常情况识别](https://www.datafountain.cn/competitions/1064)：二等奖（单人，3/1234）
@@ -27,6 +28,7 @@
 * NAN YA-GUAN, ZHANG S, GUO H, et al. NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: AI Flash Portrait (Track 3)[Z/OL]. (2026). https://arxiv.org/abs/2604.11230.
 * QU L, LIU Y, LIANG J, et al. NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: Multi-Exposure Image Fusion in Dynamic Scenes (Track 2)[Z/OL]. (2026). https://arxiv.org/abs/2604.09030.
 * ShiHang Li, Haishan Wu, and Biao Wang. 2024. A Solution to ACMMM 2024 on Artificial Intelligence Generated Image Detection. In Proceedings of the 32nd ACM International Conference on Multimedia (MM '24). Association for Computing Machinery, New York, NY, USA, 11475–11477. https://doi.org/10.1145/3664647.3689003
+-->
 
 <!--
 ### ✨ 专利
